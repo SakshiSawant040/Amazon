@@ -1,0 +1,24 @@
+What is Git
+
+   	Git is distributed version control system that allows multiple developers to collaborate on a project efficiency.
+   	It was created by linus Torvalds . 
+	Git is widely used for software development or tracking changes co-ordinating work with the team members.
+
+Features Of Git:
+	1. Version Control :It track changes files and directories in a projet & creates a history of all modifications.
+	2. Distributed System 
+	3. Branching & Merging
+	   (Git allows you to create branches which are independent lines of development. This is useful for isolating users)
+	4. Remote Repositories:
+
+Git-Hub & Other Hosting platforms:
+	Git-Hub is a popular web based hosting service for a git 
+
+command to set user-name:
+$ git config --global user.name "Sakshi"
+
+command to set Email:
+$ git config --global user.email "sakshirsawant040@gmail.com"
+
+command to use git in folder
+$ git init
